@@ -1,8 +1,9 @@
-Hosted Link: https://kaverichougule.github.io/Netflix/
+![image](https://github.com/kaverichougule/Netflix/assets/101037685/b5c834c8-b269-495d-a004-ae1b4fdbe43b)Hosted Link: https://kaverichougule.github.io/Netflix/
 
 # Netflix
 # index.html
-![Uploading image.png…]()
+![image](https://github.com/kaverichougule/Netflix/assets/101037685/2ebdf3b9-873e-4b55-9dcb-ac551f29ed4d)
+
 Inside the shadow container, there is another 'div' with the ID heading, containing two child elements:
 a. An 'div' with the ID image, displaying the Netflix logo image.
 b. Another 'div' with the ID buttons, containing two <button> elements for "Sign In" and "Register."
