@@ -1,0 +1,56 @@
+body {
+    display: block;
+    margin: 0;
+    background-image: url("img.jpg");
+}
+
+#shadow {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+}
+#heading {
+    height: 20%;
+    display: flex;
+}
+#image {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+#buttons {
+    padding: 30px;
+    width: 60%;
+    text-align: right;
+}
+#signin {
+    background: red;
+    padding: 8px 14px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 80%;
+}
+#p1 {
+    font-size: 28px;
+}
+p {
+    margin: 13px;
+    font-weight: 400;
+}
+#p2 {
+    font-size: 23px;
+}
+h1 {
+    font-size: 55px;
+    margin: 0;
+}
